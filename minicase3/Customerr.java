@@ -25,3 +25,4 @@ public class Customerr extends Person {
         System.out.println(getName() + " is requesting a trade-in.");
     }
 }
+
