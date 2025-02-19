@@ -1,8 +1,8 @@
-public class Customer extends Person {
+public class Customerr extends Person {
     private int customerID;
     private String membershipLevel;
 
-    public Customer(String name, String address, String phoneNumber, int customerID, String membershipLevel) {
+    public Customerr(String name, String address, String phoneNumber, int customerID, String membershipLevel) {
         super(name, address, phoneNumber);
         this.customerID = customerID;
         this.membershipLevel = membershipLevel;
